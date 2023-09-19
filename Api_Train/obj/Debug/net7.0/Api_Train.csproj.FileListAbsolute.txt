@@ -1,0 +1,70 @@
+C:\VisualStudio(Projects)\Api_Train\Api_Train\bin\Debug\net7.0\appsettings.Development.json
+C:\VisualStudio(Projects)\Api_Train\Api_Train\bin\Debug\net7.0\appsettings.json
+C:\VisualStudio(Projects)\Api_Train\Api_Train\bin\Debug\net7.0\Api_Train.exe
+C:\VisualStudio(Projects)\Api_Train\Api_Train\bin\Debug\net7.0\Api_Train.deps.json
+C:\VisualStudio(Projects)\Api_Train\Api_Train\bin\Debug\net7.0\Api_Train.runtimeconfig.json
+C:\VisualStudio(Projects)\Api_Train\Api_Train\bin\Debug\net7.0\Api_Train.dll
+C:\VisualStudio(Projects)\Api_Train\Api_Train\bin\Debug\net7.0\Api_Train.pdb
+C:\VisualStudio(Projects)\Api_Train\Api_Train\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\VisualStudio(Projects)\Api_Train\Api_Train\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\VisualStudio(Projects)\Api_Train\Api_Train\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\VisualStudio(Projects)\Api_Train\Api_Train\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\VisualStudio(Projects)\Api_Train\Api_Train\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\VisualStudio(Projects)\Api_Train\Api_Train\obj\Debug\net7.0\Api_Train.csproj.AssemblyReference.cache
+C:\VisualStudio(Projects)\Api_Train\Api_Train\obj\Debug\net7.0\Api_Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio(Projects)\Api_Train\Api_Train\obj\Debug\net7.0\Api_Train.AssemblyInfoInputs.cache
+C:\VisualStudio(Projects)\Api_Train\Api_Train\obj\Debug\net7.0\Api_Train.AssemblyInfo.cs
+C:\VisualStudio(Projects)\Api_Train\Api_Train\obj\Debug\net7.0\Api_Train.csproj.CoreCompileInputs.cache
+C:\VisualStudio(Projects)\Api_Train\Api_Train\obj\Debug\net7.0\Api_Train.MvcApplicationPartsAssemblyInfo.cs
+C:\VisualStudio(Projects)\Api_Train\Api_Train\obj\Debug\net7.0\Api_Train.MvcApplicationPartsAssemblyInfo.cache
+C:\VisualStudio(Projects)\Api_Train\Api_Train\obj\Debug\net7.0\staticwebassets\msbuild.Api_Train.Microsoft.AspNetCore.StaticWebAssets.props
+C:\VisualStudio(Projects)\Api_Train\Api_Train\obj\Debug\net7.0\staticwebassets\msbuild.build.Api_Train.props
+C:\VisualStudio(Projects)\Api_Train\Api_Train\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Api_Train.props
+C:\VisualStudio(Projects)\Api_Train\Api_Train\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Api_Train.props
+C:\VisualStudio(Projects)\Api_Train\Api_Train\obj\Debug\net7.0\staticwebassets.pack.json
+C:\VisualStudio(Projects)\Api_Train\Api_Train\obj\Debug\net7.0\staticwebassets.build.json
+C:\VisualStudio(Projects)\Api_Train\Api_Train\obj\Debug\net7.0\staticwebassets.development.json
+C:\VisualStudio(Projects)\Api_Train\Api_Train\obj\Debug\net7.0\scopedcss\bundle\Api_Train.styles.css
+C:\VisualStudio(Projects)\Api_Train\Api_Train\obj\Debug\net7.0\Api_Train.csproj.CopyComplete
+C:\VisualStudio(Projects)\Api_Train\Api_Train\obj\Debug\net7.0\Api_Train.dll
+C:\VisualStudio(Projects)\Api_Train\Api_Train\obj\Debug\net7.0\refint\Api_Train.dll
+C:\VisualStudio(Projects)\Api_Train\Api_Train\obj\Debug\net7.0\Api_Train.pdb
+C:\VisualStudio(Projects)\Api_Train\Api_Train\obj\Debug\net7.0\Api_Train.genruntimeconfig.cache
+C:\VisualStudio(Projects)\Api_Train\Api_Train\obj\Debug\net7.0\ref\Api_Train.dll
+C:\VisualStudio(Projects)\Api_Train\Api_Train\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\VisualStudio(Projects)\Api_Train\Api_Train\bin\Debug\net7.0\output.json
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\bin\Debug\net7.0\appsettings.json
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\bin\Debug\net7.0\output.json
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\bin\Debug\net7.0\Api_Train.exe
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\bin\Debug\net7.0\Api_Train.deps.json
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\bin\Debug\net7.0\Api_Train.runtimeconfig.json
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\bin\Debug\net7.0\Api_Train.dll
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\bin\Debug\net7.0\Api_Train.pdb
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\obj\Debug\net7.0\Api_Train.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\obj\Debug\net7.0\Api_Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\obj\Debug\net7.0\Api_Train.AssemblyInfoInputs.cache
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\obj\Debug\net7.0\Api_Train.AssemblyInfo.cs
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\obj\Debug\net7.0\Api_Train.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\obj\Debug\net7.0\Api_Train.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\obj\Debug\net7.0\Api_Train.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\obj\Debug\net7.0\staticwebassets\msbuild.Api_Train.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\obj\Debug\net7.0\staticwebassets\msbuild.build.Api_Train.props
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Api_Train.props
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Api_Train.props
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\obj\Debug\net7.0\scopedcss\bundle\Api_Train.styles.css
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\obj\Debug\net7.0\Api_Train.csproj.CopyComplete
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\obj\Debug\net7.0\Api_Train.dll
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\obj\Debug\net7.0\refint\Api_Train.dll
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\obj\Debug\net7.0\Api_Train.pdb
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\obj\Debug\net7.0\Api_Train.genruntimeconfig.cache
+C:\Users\bogda\OneDrive\Рабочий стол\etap_30\Api_Train\Api_Train\obj\Debug\net7.0\ref\Api_Train.dll
