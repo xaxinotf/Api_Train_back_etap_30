@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bogda\\OneDrive\\Рабочий стол\\etap_30\\Api_Train\\Api_Train\\Api_Train.csproj": {}
+    "C:\\Users\\bogda\\OneDrive\\Рабочий стол\\веб\\etap_30\\Api_Train\\Api_Train\\Api_Train.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bogda\\OneDrive\\Рабочий стол\\etap_30\\Api_Train\\Api_Train\\Api_Train.csproj": {
+    "C:\\Users\\bogda\\OneDrive\\Рабочий стол\\веб\\etap_30\\Api_Train\\Api_Train\\Api_Train.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bogda\\OneDrive\\Рабочий стол\\etap_30\\Api_Train\\Api_Train\\Api_Train.csproj",
+        "projectUniqueName": "C:\\Users\\bogda\\OneDrive\\Рабочий стол\\веб\\etap_30\\Api_Train\\Api_Train\\Api_Train.csproj",
         "projectName": "Api_Train",
-        "projectPath": "C:\\Users\\bogda\\OneDrive\\Рабочий стол\\etap_30\\Api_Train\\Api_Train\\Api_Train.csproj",
+        "projectPath": "C:\\Users\\bogda\\OneDrive\\Рабочий стол\\веб\\etap_30\\Api_Train\\Api_Train\\Api_Train.csproj",
         "packagesPath": "C:\\Users\\bogda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bogda\\OneDrive\\Рабочий стол\\etap_30\\Api_Train\\Api_Train\\obj\\",
+        "outputPath": "C:\\Users\\bogda\\OneDrive\\Рабочий стол\\веб\\etap_30\\Api_Train\\Api_Train\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

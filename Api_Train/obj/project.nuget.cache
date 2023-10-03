@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LECFUSBX3yze5WpOOEDvySJvSRTPu3LlQkJRGqVwOljV5CRCdvXwLywY6IF3wcmzKzSNLCTJ19PdwrJUbVk+Sg==",
+  "dgSpecHash": "uLoEa1VUBogqMvfK/YiKOVmlaetqdB0SQHXetthID1GWnh/Y9jX0CznYph+ozKM2OhivwFDgpM5t6kT/kGQbpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bogda\\OneDrive\\Рабочий стол\\etap_30\\Api_Train\\Api_Train\\Api_Train.csproj",
+  "projectFilePath": "C:\\Users\\bogda\\OneDrive\\Рабочий стол\\веб\\etap_30\\Api_Train\\Api_Train\\Api_Train.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bogda\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "C:\\Users\\bogda\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
